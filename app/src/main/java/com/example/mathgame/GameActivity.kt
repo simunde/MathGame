@@ -84,7 +84,7 @@ class GameActivity : AppCompatActivity() {
                     textLife.text=userLife.toString()
 
                 }
-                buttonNext.isEnabled = true
+buttonNext.isEnabled = true
 
 
 
